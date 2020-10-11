@@ -9,9 +9,5 @@
 
 **Languages and Tools**
  <!-- Cloud -->
- <img height="30" src="https://simpleicons.org/icons/amazonaws.svg">
-  <!-- Python -->
- <img height="30" src="https://simpleicons.org/icons/python.svg">
-  <img height="30" src="https://simpleicons.org/icons/pandas.svg">
- <!-- Databases -->‏‏‎ <img height="30" src="https://simpleicons.org/icons/microsoftsqlserver.svg"> <img height="30" src="https://simpleicons.org/icons/postgresql.svg">  <img height="30" src="https://simpleicons.org/icons/mysql.svg">
- <!-- Tools --> <img height="30" src="https://simpleicons.org/icons/docker.svg">
+ <img height="30" src="https://simpleicons.org/icons/amazonaws.svg"><!-- Python -->
+ <img height="30" src="https://simpleicons.org/icons/python.svg"><img height="30" src="https://simpleicons.org/icons/pandas.svg"><!-- Databases -->‏‏‎ <img height="30" src="https://simpleicons.org/icons/microsoftsqlserver.svg"> <img height="30" src="https://simpleicons.org/icons/postgresql.svg">  <img height="30" src="https://simpleicons.org/icons/mysql.svg"><!-- Tools --> <img height="30" src="https://simpleicons.org/icons/docker.svg">
